@@ -1,0 +1,12 @@
+{
+  "name": "re",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
